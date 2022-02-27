@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of Sir Henry Hide's speech on the scaffold, immediately before his execution before the Exchange, on the 4th of March, 1650. Taken in short-hand from his mouth, by John Hinde.</title>
+            <author>Hyde, Henry, Sir, 1605 or 6-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86950</idno>
+            <idno type="STC">Wing H3871</idno>
+            <idno type="STC">Thomason E625_16</idno>
+            <idno type="STC">ESTC R205094</idno>
+            <idno type="EEBO-CITATION">99864533</idno>
+            <idno type="PROQUEST">99864533</idno>
+            <idno type="VID">116763</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86950)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116763)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E625[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of Sir Henry Hide's speech on the scaffold, immediately before his execution before the Exchange, on the 4th of March, 1650. Taken in short-hand from his mouth, by John Hinde.</title>
+                  <author>Hyde, Henry, Sir, 1605 or 6-1651.</author>
+                  <author>Hinde, John, 17th cent.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Cole, at the sign of the Printing-Press in Cornhil by the Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCL. [1650, i.e. 1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hyde, Henry, --  Sir, 1605 or 6-1651.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-01</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116763:1" rendition="simple:additions"/>
+            <p>A true Copy of Sir Henry Hides SPEECH ON THE SCAFFOLD, Immediately before his Execution before the EXCHANGE, on the 4<hi rend="sup">th</hi> of <hi>March,</hi> 1650.</p>
+            <p>Taken in Short-hand from his mouth, BY JOHN HINDE.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Peter Cole,</hi> at the Sign of the Printing-Preſs in <hi>Cornhil</hi> by the Exchange. <hi>MDCL.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:116763:2"/>
+            <pb n="3" facs="tcp:116763:2"/>
+            <head>
+               <hi>REader,</hi> Take notice, This Speech following is publiſhed in thoſe very words that the Gentleman delivered them; and though there be ſome abrupt breakings off, and other ex<g ref="char:EOLhyphen"/>preſſions not ſo ſmooth as might have been, yet I could not with honeſty alter a word; and therefore have tyed my ſelf to his own Expreſſions, that I may neither abuſe the World, or the dying man, or my ſelf.</head>
+            <p>THe Gentleman came in a Coach to the Scaffold, at<g ref="char:EOLhyphen"/>tended by the Lieutenant of the Tower, and the Sheriffs of <hi>London;</hi> and alſo in his company one of his Servants and Doctor <hi>Hide.</hi>
+            </p>
+            <sp>
+               <speaker>Sir <hi>Henry Hide.</hi>
+               </speaker>
+               <p>I Am now come to put in practice the Chri<g ref="char:EOLhyphen"/>ſtian Profeſſion; and as I owe a Death to Nature and Sin, now I pay it upon the ſcore of Grace.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Hide.</hi>
+               </speaker>
+               <p>Bleſſed be God that hath enabled you to it: God hath and will enable you.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <stage>Looking round on the People, he ſaid,</stage>
+               <p>A popu<g ref="char:EOLhyphen"/>lous City, God bleſs it, and grant they may live to his Grace. Then turning to his Man, he ſaid, <hi>John,</hi> I pray now though I have not been a good Maſter to you, be you a good Servant, and ac<g ref="char:EOLhyphen"/>company me with your Prayers, and help me both in Body and Minde. <hi>John,</hi> Have you my things about you, <hi>John?</hi>
+               </p>
+               <stage>Then ſtaying for his Servants, they being not on the Scaffold, he ſaid</stage>
+               <p>I had rather have my Servants then Strangers.</p>
+               <stage>Then the Lieutenant of the Tower coming to him, he ſaid,</stage>
+               <p>Pray Sir rejoyce with me: I thank Almighty God I am brought hither to ſuffer for him.</p>
+            </sp>
+            <sp>
+               <speaker>Lieut. of the Tower.</speaker>
+               <p>I am glad you are ſo comforted: Gods will be fulfilled in all things.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>If God call me to him, and I glorifie him, it is well: I ſeek onely the company of your Chriſtian Prayers.</p>
+            </sp>
+            <sp>
+               <speaker>L. of the Tower.</speaker>
+               <p>I ſhall not be wanting in that, God willing.</p>
+            </sp>
+            <pb n="4" facs="tcp:116763:3"/>
+            <p>Then the Chyrurgion coming (but not his Kinſman, who was called for) he ſaid, My Kinſman is of no uſe, you may be uſeful about my Body. I hope Mr. Sheriff that you'll give order I may have a little more room here.</p>
+            <sp>
+               <speaker>Sheriff.</speaker>
+               <p>Yes, yes, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>And likewiſe for liberty of ſpeech; and that it ſhall pleaſe you (for I am not acquainted with the Forms here of <hi>England</hi>) that I may ſpeak my one ſenſe (I am now going into the preſence of Almighty God) a very little, without any diſturbance.</p>
+            </sp>
+            <sp>
+               <speaker>Sheriff.</speaker>
+               <p>Why Sir, you ſhall.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>
+                  <hi>John,</hi> where is my Coffin?</p>
+            </sp>
+            <sp>
+               <speaker>John.</speaker>
+               <p>It is here, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Sheriff.</speaker>
+               <p>Sir, it ſeems theſe men cannot be found.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>But if Mr. <hi>Barret</hi> could be found.</p>
+            </sp>
+            <p>After ſome ſtay, Mr. <hi>Barret</hi> being not found, the Sheriff ſpake to him, ſaying,</p>
+            <sp>
+               <speaker>Sheriff.</speaker>
+               <p>You have your liberty, you know your time.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>Where is the place of ſtanding, that way or this way? (pointing towards the Exchange and the Poultrey.)</p>
+            </sp>
+            <sp>
+               <speaker>Sheriff.</speaker>
+               <p>Which way you pleaſe: you may ſtand which way you will, but that way you muſt lie (pointing towards the Ex<g ref="char:EOLhyphen"/>change.)</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>I am indifferent: It is not the way to Heaven where a man ſtands.</p>
+            </sp>
+            <p>One brought word to him that there was no help to be had.</p>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>That is no hindrance to my felicity.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Hide.</hi>
+               </speaker>
+               <p>God enable you, that you may finde that joy and comfort which is due to the glory of his Holy Name; he will not forſake you that have put your truſt in him.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>I will open my heart and my mouth with thankſ<g ref="char:EOLhyphen"/>giving (if this Gentleman pleaſe to give way.)</p>
+               <stage>Then turning towards the Poultrey, he put of his Hat, and ſaid,</stage>
+               <p>
+                  <hi>Glory be to God on High, on Earth Peace, Good-will to men.</hi>
+               </p>
+               <pb n="5" facs="tcp:116763:3"/>
+               <p>CHriſtian People, I come hither to die, I am brought hither to die; and that I may die Chri<g ref="char:EOLhyphen"/>ſtian-like, I humbly beſeech the aſſiſtance of your Chriſtian Prayers, that by the benefit of them my paſſage may be the more eaſie; yet becauſe men in that condition, which it hath pleaſed God to reduce me, carry more credit to their Speeches: In the diſcharge of my Duty towards God, I ſhall uſe a few words, and ſo diſpatch.</p>
+               <p>I pray all of you joyn with me to praiſe this Al<g ref="char:EOLhyphen"/>mighty God, to whom I deſire to render all hearty thanks; as for all his Mercies, ſo in particular for this, That he hath brought me hither: That whereas I owe a duty to Sin and to Nature, that now I can pay the account: A debt to Nature, I can pay it upon the ac<g ref="char:EOLhyphen"/>count of Grace. And becauſe it is fit to render an ac<g ref="char:EOLhyphen"/>count of that Hope that is in me, I ſhall tell you, to the praiſe of Almighty God, That I have been born and bred up in the Doctrine of the Church of <hi>England,</hi> I have no Negative Religion, beleeving to be ſaved by the onely Merits of my Saviour Jeſus Chriſt <hi>(put<g ref="char:EOLhyphen"/>ting off his Hat)</hi> and whatſoever elſe is profeſt in the Doctrine and Diſcipline of the Church of <hi>England,</hi> authorized by Law; humbly beſeeching Almighty God to reſtore unto this Church her Peace, Proſperi<g ref="char:EOLhyphen"/>ty and Patrimony, whereof I have been an Obedient and a Loving (however an unworthy) Son: And now both my Hope being confident, and my Faith perfect<g ref="char:EOLhyphen"/>ed, there remains onely Chriſtian Charity; Charity we carry into Heaven, Charity on Earth, and that I leave, beſeeching all whomſoever I have offended (whether I have or no) to forgive me, as I from the
+<pb n="6" facs="tcp:116763:4"/>bottom of my Heart do them whomſoever; bleſſing Almighty God for the happy Advantage he takes to bring me nearer to Heaven; bleſſing Almighty God that he hath given me this Advantage, as he hath been merciful to me before the Foundation of the World, in my Saviour, ſo that now he hath in Mer<g ref="char:EOLhyphen"/>cy honored me, with a ſuffering for his Name, in obe<g ref="char:EOLhyphen"/>dience to his Commandment.</p>
+               <p>On this day ſeven-night I was ſummoned before that Juſtice, which condemned me on Friday laſt, praiſed be Almighty God, that by this way he hath brought me the nearer to Himſelf <stage>(putting off his Hat)</stage> My Charge I preſume is publike, as my Puniſhment is viſible: if there have been any thing in the Manage<g ref="char:EOLhyphen"/>ment of my part, being unskilful, having diſcontinued my own Countrey many years, I ſhall beſeech the Chriſtian Charity of all you my beloved Countrey<g ref="char:EOLhyphen"/>men, to impute it unto the right part, The ignorance that is in this skilful way of managing: It was ob<g ref="char:EOLhyphen"/>jected unto me there, That I had a vanity of delight<g ref="char:EOLhyphen"/>ing to ſpeak in ſtrange Tongues. I was beſt skill'd in the <hi>Italian</hi> (but free from that vanity I thank Al<g ref="char:EOLhyphen"/>mighty God) and therefore I would in defence of my life (if it had been the Cuſtom here, or the Judges favor) have uſed that Language.</p>
+               <p>It was objected, That I did not ſo freely as a through-paced Cavalier, own my Maſter: I was told ſince I came into <hi>England</hi> (for other skill I have not in your Laws) that a legal Denial in Law might be to<g ref="char:EOLhyphen"/>lerable; I hope I did not exceed the Bounds of that in anything, for God forbid that I ſhould be aſhamed of ſerving ſo good, ſo pious, ſo juſt a Maſter <hi>(putting off his hat)</hi> for that therein I rejoyce, and I humbly be<g ref="char:EOLhyphen"/>ſeech
+<pb n="7" facs="tcp:116763:4"/>Almighty God, to fill my heart and my tongue, and all that hear me this day, with thankfulneſs for it.</p>
+               <p>As to the Buſineſs, that another Conſtruction had been made and believed here, then what was there, the Righteous God knoweth it; if any weakneſs is in the management, thoſe were mine: I was ſent to ſerve and protect, not to injure any, and as God acquits me of the intention in matter of Fact, as having done any maner of evil that way, however here underſtood, bleſ<g ref="char:EOLhyphen"/>ſed be his holy Name, <stage>(putting off his hat)</stage> ſo thoſe Gentlemen of the Turky Company, if they would but ſeriouſly conſider, for they know it very well, the im<g ref="char:EOLhyphen"/>poſſibility of my doing them any maner of harm. Whereas that of the Embaſſie objected againſt me, that my Maſter never honored me withal, I was never wor<g ref="char:EOLhyphen"/>thy of it, I was his Meſſenger an <hi>Internuncio,</hi> for the Conſervation onely of his good Subjects, of all the Merchants, untill ſuch time as he could confirm that Gentleman now Reſident, or to ſend any other; and they themſelves know that there was impoſſibility in me (as I bleſs God there was an innocency in me) unto any ſuch intention to do them any harm; for my Maſters Commands were point-blank the contrary; I was onely ſent for their good, as I never owned the Title, ſo the very Letters themſelves ſpeaking no other: I never did ſo much as think of any maner of Addreſs unto the <hi>Grand Seignior,</hi> but gave him the Letter from my Maſter; the reſt of the Engliſh Na<g ref="char:EOLhyphen"/>tion that were there preſent, may, when they pleaſe, aſſert ſo much. This I would inſert, that thoſe Gen<g ref="char:EOLhyphen"/>tlemen, as they have been loſers by the miſcarriages of others, may now have no breach of their Charity with me; but if it be, as it ſeems it is now in this Coun<g ref="char:EOLhyphen"/>trey,
+<pb n="8" facs="tcp:116763:5"/>a Sin to be Loyal, I hope my God hath forgiven that, when it is upon harmleſs Imployment, not inva<g ref="char:EOLhyphen"/>ding any, according to his juſt Maſters Order; for in<g ref="char:EOLhyphen"/>deed I have been always bred up in that Religion, my Allegiance hath been incorporated into my Religion, and I have thought it a great part of the ſervice due from me to Almighty God, to ſerve the King <stage>(putting off his hat.)</stage> I need not make any Apology for any thing in relation to the preſent things in <hi>England,</hi> for were I (as I ſpake before my Judges) were I as evil as my Sentence hath here made me black, it were impoſ<g ref="char:EOLhyphen"/>ſible for me to have prejudiced any body in <hi>England,</hi> or to <hi>England</hi> belonging, in that imployment; but I bleſs God for his infinite Mercy in Jeſus Chriſt <stage>(put<g ref="char:EOLhyphen"/>ting off his hat)</stage> who hath brought me home to him here in this way, it was the beſt Phyſick for the curing of my Soul, and thoſe that have done it, have no more power then that of my body. I leave nothing behinde me, but that I am willing to part withal; all that I am going to, is deſireable: And that you may all know that Almighty God hath totally wrought in me a to<g ref="char:EOLhyphen"/>tal Denial of my ſelf, and that there is that perfect Reformation of me within, and of my own corruptions by the bleſſed Aſſiſtance of his holy Spirit, I deſire Al<g ref="char:EOLhyphen"/>mighty God in the abundance of the bowels of his Mercy in Jeſus Chriſt, not onely to forgive every Ene<g ref="char:EOLhyphen"/>my, (if any ſuch be in the world, here or whereſoever) but to bring him into his boſom ſo much good and particular comfort, as he may at any time, whether the Cauſe were juſt or unjuſt, have wiſhed me any maner of evil, for I take him to be the happy Inſtrument of bringing me to Heaven. It is tedious, but I have an inward comfort, I bleſs Almighty God: (pray Gen<g ref="char:EOLhyphen"/>tlemen
+<pb n="9" facs="tcp:116763:5"/>give leave, <stage>ſpeaking to ſome that preſt upon him</stage>) I ſhould never do it but to give ſatisfaction to all cha<g ref="char:EOLhyphen"/>ritable Hearts. I have been troubleſom.</p>
+            </sp>
+            <sp>
+               <speaker>Sheriff.</speaker>
+               <p>
+                  <hi>You have your liberty to ſpeak more, if you pleaſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>But as to that part, Mr. Sheriff, that did concern the Denial (as it was affirmed by Maſter Attorney General) of my Maſters imployment, Truly landing at <hi>Whitehall</hi> I told that Councel, there was juſt Commiſſions to an old Officer by the bleſſing of God, I have by me, and I have other good things that God hath bleſſed me withal, more then all the good Chri<g ref="char:EOLhyphen"/>ſtians in the world, that are not the <hi>Grand Seignior</hi>'s Slaves; and we that are Merchants abroad, we allow our ſelves any ſufferance that may induce to our own ſafety, inlargement of Trade, or preſervation of what is ours. Why I had by the grace of my gracious Ma<g ref="char:EOLhyphen"/>ſter a confirmation of my old Commiſſion of <hi>Conſul<g ref="char:EOLhyphen"/>age</hi> in <hi>Greece;</hi> but as to the Embaſſie, no more then my Credential Letters did ſpeak, nor no more then that I attempted, an <hi>Internuncio</hi> they call it in thoſe places, which is a Meſſenger between the one and the other King. They both unhappily dyed of ſeveral deaths, and both violent too; and it is a cuſtom not unknown to you, Maſter Sheriff, and other Gentle<g ref="char:EOLhyphen"/>men that practice in the world, that Princes of courſe, for the continuation of Amity, do ſend Meſſengers where there is peace, that the Tranſaction of thoſe publike Expreſſions of recipocrol Affections may be performed; but for Embaſſie, God forbid I ſhould own it, I never had it, however they have uſed it as the happy means to bring me to God this day. I be<g ref="char:EOLhyphen"/>ſeech God in the bowels of my Saviour, to forgive
+<pb n="10" facs="tcp:116763:6"/>thoſe people that have done it, as I owe them no harm, ſo God pay them home with all the good of this, and an everlaſting Life.</p>
+               <p>As for Power, I have been long abſent here in <hi>England,</hi> I meddle with none: Sufficient for me is Gods Grace to the Salvation of my Soul.</p>
+               <p>I have been always fearful of offending Almighty God, according to the Grace he hath given me: But to learn a New-Religion, and New-Ways (that I muſt ſay Maſter Sheriff to you, and all others that hear me) I cannot diſpence with my Conſcience to give offence to Almighty God. I am now (if it may be with your Commiſſion, Maſter Sheriff) to pour out my Soul to Almighty God in two or three words (the place is ſtraitned.) If I knew wherein to give any ſatisfaction to any thing whatſoever, wherein I have offended or no, I am here in the fear of God to do it. I forgive with all my Soul, and my forgiveneſs is clear, as I am now going to receive Happineſs at the hand of my Saviour: But if I thought it were ſatiſ<g ref="char:EOLhyphen"/>faction to Sir <hi>Thomas Bendiſh,</hi> and all the Company, or any who may think they have offended me, I am come Maſter Sheriff to pay that Obedience willingly; that Debt I owe to Nature, to pay it upon the ſcore of a Subject; becauſe Conſcience within me, tells-me not, that for the intentions of ſerving my Prince, that I could deſerve ſuch a Death, though Ten thou<g ref="char:EOLhyphen"/>ſand times more other ways.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor <hi>Hide.</hi>
+               </speaker>
+               <p>
+                  <hi>There was ſome ſuſpition that you might impart the way you were upon to ſome of thoſe Servants that were with you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Henry Hide.</hi>
+               </speaker>
+               <p>I humbly thank you for remem<g ref="char:EOLhyphen"/>bring me of it, and if any be here of the <hi>Turky</hi> Com<g ref="char:EOLhyphen"/>pany
+<pb n="11" facs="tcp:116763:6"/>this day, or any Friend of theirs, I ſhall deſire them from a dying Man, to take this truth, That nei<g ref="char:EOLhyphen"/>ther my Brother, my innocent Brother that is with me, nor other Gentlemen with me in my company, have contributed any thing to their diſturbance; it was my own buſineſs, whatſoever hath been done, that hath been to evil, or loſs, though I deny both of them in my Intentions: I come not here to accuſe any man, nor to excuſe my ſelf, but to praiſe God for all his deliverances; yet I know I ſhall do God a great deal of Service, and them a great deal of Juſtice, in not involving any of my company in any thing of miſchief. I cannot anſwer Objections; I finde a man may be in <hi>Turky,</hi> or any place, all the World over, where they will give that Language which they hold fitting; but this is beneath me. Bleſſed be Almighty God, that hath called me to the Knowledge of him, and this ready Obedience which I pay, and merciful accepting of my Saviour, and patient Death: And I beſeech you all, whatever you are, That you will ac<g ref="char:EOLhyphen"/>company me with your Prayers, whereby my Soul may be aſſiſted within me, in that paſſage to my Savi<g ref="char:EOLhyphen"/>our whither I am going. I am weak of Body; I have diſcontinued long from the Kingdom; I am unac<g ref="char:EOLhyphen"/>quainted with new Forms; I have deſired to ſerve God according to his Commandments after the Old way: I have begged mercy of God for all my offences to him; and I have had my pardon ſealed from Heaven by the Blood of my Saviour: I beg pardon of all whoſoever, whether I have offended them, or no: I truly forgive them, and have beſought Almighty God to pour his bleſſings upon them. I accuſe no man, I finde fault, nor quarrel with no man; neither
+<pb n="12" facs="tcp:116763:7"/>with the perſons that were the occaſions, they were but the Inſtruments; neither at the perſons condemn<g ref="char:EOLhyphen"/>ing. I accept thankfully the Sentence of Death upon my ſelf; and I beſeech Almighty God, that I may be the laſt that may ſuffer upon this ſcore, or upon any other.</p>
+               <p>Maſter Sheriff, If there be any thing wherein I can give any other ſatisfaction to any Chriſtian whatſo<g ref="char:EOLhyphen"/>ever, in any kinde, as I ſpake in general, I bleſs Al<g ref="char:EOLhyphen"/>mighty God from my own Heart, now ſo aſſiſted, by the eſpecial Operation, and Motions, and Dictates of the Holy Ghoſt: if I can know any thing, wherein, or how to be now in my dying (not having ſerved God ſo well in my life) ſerviceable to the Church of God, of Chriſt, and the full ſatisfaction of any what<g ref="char:EOLhyphen"/>ſoever, I am here ready: I am unacqainted, but in my extaſies to Heaven, there is that Glory I am go<g ref="char:EOLhyphen"/>ing to. I beſeech Almighty God, that he will give me Grace to bleſs his holy Name; as for all, as for Jeſus Chriſt, and in him all things, ſo particularly for this, That he hath thought me worthy to bring me hither for my Faithfulneſs to my Maſter, for do<g ref="char:EOLhyphen"/>ing what I was commanded by my Maſter, that is the moſt Pious, and moſt Juſt Prince in all the World. My Maſter hath ſuffered bitterly in <hi>England;</hi> and if there be any failing in his Service, the fault is onely mine. God knows I have done nothing in the buſi<g ref="char:EOLhyphen"/>neſs, but by the inſtance of the Merchants; I deliver<g ref="char:EOLhyphen"/>ed my Letters, and there they lie: To other things I am a Stranger. I hope that God will give me the Grace of Perſeverance in that Chriſtian Religion; in that Loyalty to my Prince; in that Love to all the World, that now (being to give up my Account to
+<pb n="13" facs="tcp:116763:7"/>him, that) I may with comfort be received in the Arms of his Mercy.</p>
+               <p>If there be any thing, Maſter Sheriff, that I may give ſatisfaction in, I am ready to do it according to the poor Talent I have. I will receive my puniſhment in the way God hath prepared for me; and many ways I have been taken up. Truly I am bound to all that ſee me, and many thouſands more ſince I came into <hi>England,</hi> not an uncivil look (we had ſtrange reports abroad) not an uncivil look from any: God repay them all, and return them from the Throne of his Grace into their own boſoms. And God in particular bleſs that Honorable Lady, who was the occaſion of the coming of my Lords Grace of <hi>Ar<g ref="char:EOLhyphen"/>magh,</hi> with the Confirmation of thoſe glorious and eternal Meſſages of Comfort which now I am going to enjoy: being thankful to all thoſe that know me, and know me not; for ſince I am come hither, whereas I might have received prejudice in reſpect to my Loyalty (which is not the way, now) I have from them all received courteſie, the Lord repay them. I thank God I am otherwiſe bred, and my Al<g ref="char:EOLhyphen"/>legiance hath been incorporated, imbodied into my Religion; and beſides the great deſires of other Gen<g ref="char:EOLhyphen"/>tlemen, that I might not go out of the world, but that the world might ſee that the grace of God hath had a perfect Reformation in me, and a willing and thankful Submiſſion to his Will, therefore I repent me not of it; but I beſeech Almighty God to bleſs and proſper all people whatſoever that to this Kingdom belong. As my Speech is imperfect, ſo is my Health. I have forced my ſelf in this Diſcourſe to give that ſatisfacti<g ref="char:EOLhyphen"/>on which I could. And I beſeech you, Mr. Sheriff,
+<pb n="14" facs="tcp:116763:8"/>if you can hear of any Gentlemen that are wronged, what I offer here, I am to anſwer it; and I beſeech you joyn with me in your Chriſtian Prayers, that I may have a paſſage whither I am now going to give an ac<g ref="char:EOLhyphen"/>count, not onely of every deed, but of every word.</p>
+            </sp>
+            <p>Then turning to his Man, he ſaid,</p>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>
+                  <hi>John,</hi> which is the Executioner?</p>
+            </sp>
+            <p>The Executioner being brought to him, he ſaid,</p>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>Honeſt Friend, I have no quarrel with you, you are the welcom Inſtrument, do your work; onely let me ſee the place, that I may fit my ſelf, for I have an infirm body.</p>
+            </sp>
+            <sp>
+               <speaker>Sheriff.</speaker>
+               <p>You ſhall when you have prayed; if you pleaſe to pray firſt.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>I deſire to ſee the Block, I can pray afterwards. Here Mr. Executioner is that Money that is left; here is Four pounds for you.</p>
+            </sp>
+            <p>Then being ſhewed the Block, he kiſſed it, ſaying,</p>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>It is unworthy for me to put my Head where my Maſters was. Bleſſed be God, Bleſſed be his Holy Name <stage>(putting off his Hat)</stage> I have an infirmity in my Body, but God hath enabled me inwardly. Pray Mr. Sheriff let me have a little more room.</p>
+            </sp>
+            <sp>
+               <speaker>Sheriff.</speaker>
+               <p>Go to Prayer, and we will clear the room.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>I have (I thank Almighty God) done thoſe Chriſtian Offices belonging to me, at home; I am come hither onely to dye.</p>
+            </sp>
+            <p>Then kneeling down, he ſaid the Lords-Prayer.</p>
+            <p>Then having prayed a ſhort ſpace, he ſtood up, and turning to the Executioner, ſaid,</p>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>Honeſt Friend, I pray give me direction what I am to do, and do your Office: You will cure all Diſeaſes preſently; pray direct me.</p>
+               <p>Then the Executioner going to ſpred the Scarf over the Block, he ſaid.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>Put it not on now, but by and by.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Hide.</hi>
+               </speaker>
+               <p>God Almighty ſtrengthen you.</p>
+            </sp>
+            <pb n="15" facs="tcp:116763:8"/>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>God reward you all.</p>
+            </sp>
+            <p>Then the Executioner going to put up his Hair under his Sattin Cap, he thought he had been taking of it off: Where<g ref="char:EOLhyphen"/>upon he ſaid,</p>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>Muſt I have my black Cap off? It is very cold: all theſe Diſeaſes will be cured, the Lord be thanked.</p>
+            </sp>
+            <p>Then going to lie down, his Man not helping him, he ſaid,</p>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>
+                  <hi>John,</hi> help me a little I pray: Did not I tell you I could neither riſe nor fall; lay me down, and lift me up again, <hi>John.</hi>
+               </p>
+            </sp>
+            <p>Then riſing again upon his knees, he ſpake to the Executioner, having the Ax in his hand,</p>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>Pray Sir give me the Ax.</p>
+            </sp>
+            <p>And then taking the Ax in his hand, he kiſſed it, and re<g ref="char:EOLhyphen"/>turned it to the Executioner again, ſaying,</p>
+            <sp>
+               <speaker>Sir <hi>H. Hide.</hi>
+               </speaker>
+               <p>I will onely ſay, <hi>Lord Jeſus receive my Soul;</hi> and when I lift up my Right-hand, do your work.</p>
+               <p>And then lying down again, after a little ſpace he lift up his Right-hand, and the Executioner at one ſtroke ſevered his Head from his Body.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
